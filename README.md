@@ -1,26 +1,22 @@
 # 🌦️ Weather App
 
-A simple and interactive weather application that fetches country data from the RestCountries API and displays real-time weather details of the selected country's capital city.
+A simple and interactive weather application that uses pre-downloaded country data and displays real-time weather details of the selected country's capital city.
 
 ---
 
 ## ✨ Features
-- 🌍 Fetch and display a list of countries in a dynamic table
+- 🌍 Display a list of countries in a dynamic table
 - ☁️ View real-time weather details of a selected country's capital
 - 🔄 Toggle between grid and component views
 - 📊 Sorting, 🔍 filtering, and 🔎 search functionalities
 - 📑 Pagination for better navigation
-- ✅ Unit tests using Jasmine/Karma
 
 ---
 
 ## 🛠️ Technologies Used
 - ⚛️ React.js
-- ⏭️ Next.js
 - 🌐 RestCountries API
 - ☀️ OpenWeather API
-- 🎨 Tailwind CSS / Material UI
-- 🧪 Jasmine/Karma for testing
 
 ---
 
