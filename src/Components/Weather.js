@@ -26,7 +26,7 @@ const Weather = () => {
         setWeather(response.data);
       } catch (err) {
         console.error("Error fetching weather:", err);
-        setError("Failed to fetch weather data.");
+        setError("Weather data is unavailable because this country does not have a capital.");
       } finally {
         setLoading(false);
       }

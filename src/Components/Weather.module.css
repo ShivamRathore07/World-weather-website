@@ -52,6 +52,7 @@
   .error {
     color: #ff4d4d;
     font-size: 18px;
+    text-align: center;
   }
   
   .weather-card {
