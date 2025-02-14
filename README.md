@@ -31,7 +31,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```sh
-   https://github.com/ShivamRathore07/World-weather-website..git
+   https://github.com/ShivamRathore07/World-weather-website.git
    ```
 
 2. **Install dependencies**
