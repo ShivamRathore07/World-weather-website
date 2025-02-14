@@ -31,8 +31,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/weather-app.git
-   cd weather-app
+   https://github.com/ShivamRathore07/World-weather-website..git
    ```
 
 2. **Install dependencies**
@@ -42,13 +41,7 @@ Ensure you have the following installed:
    yarn install
    ```
 
-3. **Set up environment variables**
-   Create a `.env.local` file in the root directory and add the required API keys:
-   ```sh
-   NEXT_PUBLIC_WEATHER_API_KEY=your_openweather_api_key
-   ```
-
-4. **Run the development server**
+3. **Run the development server**
    ```sh
    npm run dev
    # or
@@ -86,7 +79,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 📬 Contact
-For any inquiries, reach out at 📧 `your-email@example.com`.
+For any inquiries, reach out at 📧 `shivamrathoreji07@gmail.com`.
 
 ---
 
